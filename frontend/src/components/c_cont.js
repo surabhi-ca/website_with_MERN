@@ -9,7 +9,7 @@ import {BrowserRouter as Router,Switch,Route,Redirect,Navigate} from "react-rout
 const Cont = () => {
 
 
-  const contact = useRef(null);
+const contact = useRef(null);
 const scrl=(elememtRef)=>{
   window.scrollTo({
     top:elememtRef.current.offsetTop, behavior:'smooth'
