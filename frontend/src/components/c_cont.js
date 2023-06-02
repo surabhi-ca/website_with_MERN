@@ -1,10 +1,8 @@
-
 import ImageSlider from "./slider";
 import { useRef } from "react";
 import ig from './ig_logo.jpg';
 import ph from './call_logo.png';
 import mail from './mail_logo.jpg';
-
 import { Link, Routes,useNavigate } from "react-router-dom";
 import {BrowserRouter as Router,Switch,Route,Redirect,Navigate} from "react-router-dom";
 
