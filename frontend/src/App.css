@@ -1,0 +1,198 @@
+.App {
+  text-align: center;
+  background-color: #9F8B79;
+}
+
+
+
+.navbar{
+  position: sticky;
+
+}
+
+.nav-ul {
+  list-style-type: none;
+  margin-top: 0;
+
+  overflow: hidden;
+  background-color:#9F8B79;
+  position: sticky;
+  top: 0;
+  padding-bottom: 2em;
+  font-size: large;
+  
+}
+
+.nav-li {
+  
+  float: left;
+  left: 40%;
+  margin: auto;
+  
+  background-color: #9F8B79;
+  position: relative;
+}
+
+.anch {
+  display: block;
+  color:white;
+  text-align: center;
+  
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav-li a:hover:not(.active) {
+  background-color: #111;
+}
+
+
+
+.webname{
+  font-style: italic;
+  size: 2em;
+ 
+  font-size:3em;
+  background-color: #9F8B79;
+  font-family: 'Passions Conflict';
+  margin-bottom: 0;
+  padding: 1em;
+
+  
+}
+
+.cont_sec{
+  padding-top: 2em;
+  height: 20em;
+  background-color: #9F8B79;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  text-align: center;
+  font-size:large;
+  font-family:cursive;
+  line-height:5px;
+ 
+  
+  padding-top: 2em;
+}
+.ig{
+  height: 20px;
+  width: 20px;
+}
+.cont_title{
+  padding-bottom: 2em;
+  font-size: x-large;
+  padding-top: 2em;
+}
+
+.order-sec-title{
+  font-family: cursive;
+  padding: 2em;
+  font-size: 2.5em;
+  padding-bottom: 0em;
+  padding-top: 0.5em;
+}
+
+.order-body{
+  padding-right: 2em;
+  font-family: cursive;
+  font-size: 2em;
+  color: white;
+}
+
+.order_sec{
+  width:80%;
+  height: 35em;
+  text-align: right;
+  padding: 2em;
+  text-shadow: #111;
+  margin: 9em;
+  background-image: url("wt_cake3.jpg");
+}
+
+.button{
+
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  padding-right: 2em;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  margin-bottom: 2em;
+}
+
+.button2:hover{
+  
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+
+.bgpic{
+  padding: 2em;
+  padding-left: 4.5em;
+  
+}
+
+.menu-img{
+  width: 5cm;
+  height: 5cm;
+  display: inline;
+  margin: 2em;
+  padding: 2em;
+}
+
+.menu-list{
+  display: inline-block;
+  font-style: italic;
+  list-style: none;
+  box-sizing: border-box;
+  padding: 2em;
+  margin: 2em;
+}
+
+
+
+.App-button{
+  background-color:rosybrown; 
+  border-radius: 1.5em;
+  width: 2cm;
+  height: 1.5cm;
+  border:ridge;
+  border-color:black;
+ 
+  color: white;
+  text-align: center;
+}
+
+.App-listhead{
+  font-weight: bold;
+  font-size:1.5em;
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.total{
+  padding-bottom: 2em ;
+  font-style: italic;
+  font-size: x-large;
+}
+
+.menu-dets{
+  font-style: italic;
+  font-size: large;
+}
+
+.menu-head{
+  font-style: italic;
+  color:rgb(69, 34, 7);
+}
